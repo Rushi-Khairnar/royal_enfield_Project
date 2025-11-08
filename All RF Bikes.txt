@@ -1,0 +1,35 @@
+--All RF Bikes
+Royal Enfield Hunter 350 ...
+Royal Enfield Continental GT 650 ...
+Royal Enfield Bullet 350 ...
+Royal Enfield Meteor 350 ... 
+Royal Enfield Guerrilla 450 ... 
+Royal Enfield Himalayan 450 ...
+Royal Enfield Shotgun 650 ...
+Royal Enfield Scram 440 ... 
+Royal Enfield Bear 650 ... 
+
+
+--Data
+1. yearly data 2020
+2.Sales
+3.sales by state in Indian
+4.how many manufacture
+5.total customer 
+6.all the type of colors and how many sold
+7. Milage  of bike
+8.power of bike
+9.Higest reviews
+
+
+--created a data base in the tabular format with 
+(Data is created by AI tools)
+1.Year 2021 to 2025 
+2.Sales
+3.sales by state in Indian
+4.how many manufacture
+5.total customer 
+6.all the type of colors and how many sold by state
+7.Milage  of bike
+8.power of bike
+9.Higest reviews
